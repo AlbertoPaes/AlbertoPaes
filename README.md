@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Na dúvida, sorria! :) </h1>
+<h1> Sorria, code, hidrate-se :) </h1>
