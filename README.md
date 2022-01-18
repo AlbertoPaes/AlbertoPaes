@@ -18,7 +18,6 @@
 
 <div align="center">
 <img alt="html" title="#html" width="60px" src="./assets/html.png" />
-<img alt="css" title="#css" width="60px" src="./assets/css.png" />
 <img alt="javascript" title="#javascript" width="60px" src="./assets/javascript.png" />
 <img alt="react" title="#react" width="60px" src="./assets/react.png" />
 <img alt="npm" title="#npm" width="60px" src="./assets/npm.png" />
