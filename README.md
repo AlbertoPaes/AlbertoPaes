@@ -1,18 +1,25 @@
-### Hello World, I'm Alberto 👋
+## Hello World, I'm Alberto  👋
 
-<!--
-**DoublinhoOne/DoublinhoOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://i.imgur.com/IkdLIvu.gif" height="270" width="400"/>
 
-Here are some ideas to get you started:
+- 🔎 I'm aways learning something new
+- 🎓 Web Development student at Driven Education
+- 📚 I'm currently learning back-end in JS
+- 📬 I love meeting new people, you can email me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://www.linkedin.com/in/alberto-goulart-b553b6143/"><img src="./assets/linkedin.png" width="60px"/></a>
+<a href="mailto:tejotaesi@gmail.com"><img src="./assets/gmail.png" width="60px"/></a>
+</div>
 
-<h1> Sorria, code, hidrate-se :) </h1>
+<br> 
+
+## TechStack 💻
+
+<div align="center">
+<img alt="html" title="#html" width="60px" src="./assets/html.png" />
+<img alt="css" title="#css" width="60px" src="./assets/css.png" />
+<img alt="javascript" title="#javascript" width="60px" src="./assets/javascript.png" />
+<img alt="react" title="#react" width="60px" src="./assets/react.png" />
+<img alt="npm" title="#npm" width="60px" src="./assets/npm.png" />
+</div>
