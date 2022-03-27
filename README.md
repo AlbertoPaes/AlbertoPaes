@@ -1,6 +1,6 @@
 ## Hello World, I'm Alberto  👋
 
-<img align="right" alt="GIF" src="https://i.imgur.com/IkdLIvu.gif" height="270" width="400"/>
+<img align="right" alt="GIF" src=https://i.imgur.com/OTKgDSt.gif height="270" width="400"/>
 
 - 🔎 I'm aways learning something new
 - 🎓 Web Development student at Driven Education
