@@ -4,7 +4,7 @@
 
 - 🔎 I'm aways learning something new
 - 🎓 Web Development student at Driven Education
-- 📚 I'm currently deepening my knowledge in React
+- 📚 I'm currently starting back-end studies.
 - 📬 I love meeting new people, you can email me!
 - ⚡ Fun fact: I'm passionate about chess and spirituality
 
