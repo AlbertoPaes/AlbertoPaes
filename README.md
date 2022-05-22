@@ -24,4 +24,5 @@
 <img alt="react" title="#react" width="60px" src="./assets/react.png" />
 <img alt="npm" title="#npm" width="60px" src="./assets/npm.png" />
 <img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.png" />
+<img alt="heroku" title="#heroku" width="60px" src="./assets/heroku.png" />
 </div>
