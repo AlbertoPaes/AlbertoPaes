@@ -23,4 +23,5 @@
 <img alt="javascript" title="#javascript" width="60px" src="./assets/javascript.png" />
 <img alt="react" title="#react" width="60px" src="./assets/react.png" />
 <img alt="npm" title="#npm" width="60px" src="./assets/npm.png" />
+<img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.png" />
 </div>
