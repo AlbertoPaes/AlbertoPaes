@@ -18,13 +18,13 @@
 ## TechStack 💻
 
 <div align="center">
-<img alt="html" title="#html" width="60px" src="./assets/html.png" />
-<img alt="css" title="#css" width="60px" src="./assets/css.png" />
-<img alt="javascript" title="#javascript" width="60px" src="./assets/javascript.png" />
-<img alt="react" title="#react" width="60px" src="./assets/react.png" />
-<img alt="npm" title="#npm" width="60px" src="./assets/npm.png" />
-<img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.png" />
-<img alt="heroku" title="#heroku" width="60px" src="./assets/heroku.png" />
-<img alt="mongodb" title="#mongodb" width="60px" src="./assets/mongodb.png" />
-<img alt="styledcomponents" title="#styledcomponents" width="60px" src="./assets/styledcomponents.png" />
+  <img alt="html" title="#html" width="60px" src="./assets/html.png" />
+  <img alt="css" title="#css" width="60px" src="./assets/css.png" />
+  <img alt="javascript" title="#javascript" width="60px" src="./assets/javascript.png" />
+  <img alt="react" title="#react" width="60px" src="./assets/react.png" />
+  <img alt="npm" title="#npm" width="60px" src="./assets/npm.png" />
+  <img alt="styledcomponents" title="#styledcomponents" width="60px" src="./assets/styledcomponents.png" />
+  <img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.png" />
+  <img alt="heroku" title="#heroku" width="60px" src="./assets/heroku.png" />
+  <img alt="mongodb" title="#mongodb" width="60px" src="./assets/mongodb.png" />
 </div>
