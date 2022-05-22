@@ -25,4 +25,5 @@
 <img alt="npm" title="#npm" width="60px" src="./assets/npm.png" />
 <img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.png" />
 <img alt="heroku" title="#heroku" width="60px" src="./assets/heroku.png" />
+<img alt="mongodb" title="#mongodb" width="60px" src="./assets/mongodb.png" />
 </div>
