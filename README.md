@@ -30,6 +30,7 @@
 ### Back-end:
 <div align="start">
   <img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.png" />
+  <img alt="expressjs" title="#expressjs" height="62.5px" width="100px" src="./assets/express.png" />
 </div>
 
 ### Database:
