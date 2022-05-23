@@ -23,12 +23,11 @@
   <img alt="css" title="#css" width="60px" src="./assets/css.png" />
   <img alt="javascript" title="#javascript" width="60px" src="./assets/javascript.png" />
   <img alt="react" title="#react" width="60px" src="./assets/react.png" />
-  <img alt="npm" title="#npm" width="60px" src="./assets/npm.png" />
   <img alt="styledcomponents" title="#styledcomponents" width="60px" src="./assets/styledcomponents.png" />
 </div>
 
 ### Back-end:
-<div align="start">
+<div align="start" height=>
   <img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.png" />
   <img alt="expressjs" title="#expressjs" height="62.5px" width="100px" src="./assets/express.png" />
 </div>
@@ -38,9 +37,17 @@
   <img alt="mongodb" title="#mongodb" width="60px" src="./assets/mongodb.png" />
 </div>
 
-##### Cloud Deploy:
+### Cloud Deploy:
 <div align="start">
-    <img alt="heroku" title="#heroku" width="60px" src="./assets/heroku.png" />
+  <img alt="heroku" title="#heroku" width="60px" src="./assets/heroku.png" />
 </div>
 
+### Tools:
+<div align="start">
+  <img alt="npm" title="#npm" width="60px" src="./assets/npm.png" /> &nbsp;
+  <img alt="slack" title="#slack" width="60px" src="./assets/slack.png" /> &nbsp;
+  <img alt="trello" title="#trello" src="./assets/trello.png" /> &nbsp;
+  <img alt="visual-studio-code" title="#visual-studio-code" height="50px" src="./assets/visual-studio-code.png" /> &nbsp;
+  <img alt="zoom" title="#zoom" src="./assets/zoom.png" /> &nbsp;
+</div>
 
