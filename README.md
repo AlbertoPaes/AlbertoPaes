@@ -22,14 +22,14 @@
   <img alt="html" title="#html" width="60px" src="./assets/html.png" />
   <img alt="css" title="#css" width="60px" src="./assets/css.png" />
   <img alt="javascript" title="#javascript" width="60px" src="./assets/javascript.png" />
-  <img alt="react" title="#react" width="60px" src="./assets/react.png" />
+  <img alt="react" title="#react" width="60px" src="./assets/react.png" /> &nbsp;
   <img alt="styledcomponents" title="#styledcomponents" width="60px" src="./assets/styledcomponents.png" />
 </div>
 
 ### Back-end:
 <div align="start" height=>
-  <img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.png" />
-  <img alt="expressjs" title="#expressjs" height="62.5px" width="100px" src="./assets/express.png" />
+  <img alt="nodejs" title="#nodejs" width="60px" src="./assets/nodejs.png" /> &nbsp;
+  <img alt="express" title="#express" width="64px" src="./assets/express.png" />
 </div>
 
 ### Database:
