@@ -39,7 +39,8 @@
 
 ### Cloud Deploy:
 <div align="start">
-  <img alt="heroku" title="#heroku" width="60px" src="./assets/heroku.png" />
+  <img alt="heroku" title="#heroku" width="60px" src="./assets/heroku.png" /> &nbsp;
+  <img alt="vercel" title="#vercel" width="60px" src="./assets/vercel.png" />
 </div>
 
 ### Tools:
