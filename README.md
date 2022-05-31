@@ -4,9 +4,9 @@
 
 - 🔎 I'm aways learning something new
 - 🎓 Web Development student at Driven Education
-- 📚 I'm currently deepening my knowledge in MongoDB
+- 📚 I'm currently learnig back-end development
 - 📬 I love meeting new people, you can email me!
-- ⚡ Fun fact: I'm passionate about chess and spirituality
+- ⚡ Fun fact: I'm passionate about chess, spirituality and I'm a Harry Potter Fan ^-^!
 
 <div align="center">
 <a href="https://www.linkedin.com/in/alberto-goulart-b553b6143/"><img src="./assets/linkedin.png" width="60px"/></a>
