@@ -4,7 +4,7 @@
 
 - 🔎 I'm aways learning something new
 - 🎓 Full-stack web developer graduated from Driven Education
-- 📚 I'm currently learnig front-end development
+- 📚 I'm currently deepening my knowledge in front-end development
 - 📬 I love meeting new people, you can email me!
 - ⚡ Fun fact: I'm passionate about playing chess and I'm a fan of Harry Potter ^-^!
 
