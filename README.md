@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" src="./assets/welcome.gif" height="270" width="400"/>
 
 - 🔎 I'm aways learning something new
-- 🎓 Web Development student at Driven Education
-- 📚 I'm currently learnig back-end development
+- 🎓 Full-stack web developer graduated from Driven Education
+- 📚 I'm currently learnig front-end development
 - 📬 I love meeting new people, you can email me!
-- ⚡ Fun fact: I'm passionate about chess, spirituality and I'm a Harry Potter Fan ^-^!
+- ⚡ Fun fact: I'm passionate about playing chess and I'm a fan of Harry Potter ^-^!
 
 <div align="center">
 <a href="https://www.linkedin.com/in/alberto-goulart-b553b6143/"><img src="./assets/linkedin.png" width="60px"/></a>
