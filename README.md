@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm passionate about playing chess and I'm a fan of Harry Potter ^-^!
 
 <div align="center">
-<a href="https://www.linkedin.com/in/alberto-goulart-b553b6143/"><img src="./assets/linkedin.png" width="60px"/></a>
+<a href="https://www.linkedin.com/in/alberto-paes"><img src="./assets/linkedin.png" width="60px"/></a>
 <a href="mailto:albertopaes11@gmail.com"><img src="./assets/gmail.png" width="60px"/></a>
 </div>
 
